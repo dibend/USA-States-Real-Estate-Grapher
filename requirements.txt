@@ -1,1 +1,2 @@
-https://huggingface.co/spaces/dibend/usa-state-real-estate-grapher/blob/main/requirements.txt
+plotly
+gradio
